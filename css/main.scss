@@ -41,6 +41,10 @@ h2 {
   margin: 2.5rem 0 0 0;
   font-size: 1.4rem;
 }
+h3 {
+  margin: 2.5rem 0 0 0;
+  font-size: 1.2rem;
+}
 
 pre {
   background: #ddd;
@@ -83,6 +87,7 @@ table th {
     border-top: 2px solid black;
     margin-top: 0.5rem;
     padding-top: 0.5rem;
+    padding-bottom: 10rem;
   }
 }
 
@@ -141,6 +146,10 @@ p.lead {
   }
 }
 
+ol ol {
+  list-style: lower-alpha;
+}
+
 .button {
   background: $blue;
   color: white;
@@ -176,6 +185,11 @@ p.lead {
 img.bordered {
   border: 5px solid #000;
 }
+.main img {
+  max-width: 100%;
+  height: auto;
+}
+
 .row {
   @include clearfix;
 
