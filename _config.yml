@@ -19,6 +19,14 @@ description: Documentation site for HoPE Climate Wall
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+collections:
+  design:
+    output: true
+  research:
+    output: true
+  tech:
+    output: true
+
 # Build settings
 markdown: kramdown
 gems:

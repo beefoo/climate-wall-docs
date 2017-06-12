@@ -22,7 +22,7 @@ body {
 }
 
 a {
-  color: black;
+  color: $blue;
   font-weight: bold;
 }
 
@@ -38,7 +38,7 @@ blockquote {
 }
 
 h2 {
-  margin: 2rem 0 0 0;
+  margin: 2.5rem 0 0 0;
   font-size: 1.4rem;
 }
 
@@ -132,7 +132,7 @@ p.lead {
   list-style: none;
 }
 
-.content-list {
+.content-list, ol, .main ul {
   margin: 1rem 0 0 0;
   padding: 0 0 0 1.5rem;
   li {
