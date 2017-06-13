@@ -45,4 +45,4 @@ While using the [online prototypes](https://beefoo.github.io/climate-lab/), ther
 
 1. During HoPE meetings: feedback will be documented and added to a backlog
 2. [Online form](https://goo.gl/forms/Qipw7xxgCSqpq9dp2): feedback will be collected, organized, and added to a backlog. [Responses will be added to this spreadsheet](https://docs.google.com/spreadsheets/d/1NpO9iBn29Y2jsRMEhafRsJ_b_MPJ9j72z4deZo6XmtY/edit?usp=sharing).
-3. [Github issues](https://github.com/beefoo/climate-lab/issues): this is how feedback will be tracked and organized (feedback from #1 and #2 will be translated here.) If you have a Github account, you can submit issues directly here and/or add comments to existing issues. This is also a good way to see what feedback has already be submitted.
+3. [Github issues](https://github.com/beefoo/climate-lab/issues): this is how feedback will be tracked and organized. Feedback from (1) and (2) will be translated here. If you have a Github account, you can submit issues directly here and/or add comments to existing issues. This is also a good way to see what feedback has already be submitted.

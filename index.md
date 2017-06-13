@@ -4,7 +4,7 @@ id: home
 title: Table of contents
 ---
 
-This website will is an internal README (a.k.a. "Start here") for design and development of HoPE Climate Wall
+This website will is an internal README (a.k.a. "Start here") for design and development of HoPE Climate Wall. It is a living document that will be updated as the project is developed.
 
 ## Design and development
 
@@ -13,7 +13,7 @@ This section will contain links to sketches, mock-ups, and prototypes of Climate
 1. [Start here](design/README.html) - an overview
 2. [Interactive prototypes](https://beefoo.github.io/climate-lab/) - a separate website that contains links to interactive prototypes
 3. [Sketches and mock-ups](design/sketches.html) - quick visual aids to facilitate conversations about content
-4. [Design philosophy, patterns, language](design/principles.html) - guiding principles and inspirations for design
+4. [Design goals, principles, and language](design/principles.html) - guiding principles and inspirations for design
 
 ## User research, feedback, and testing
 
