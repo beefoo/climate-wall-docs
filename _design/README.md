@@ -1,6 +1,6 @@
 ---
 layout: page
-id: design-start
+uid: design-start
 title: Design and development primer
 ---
 

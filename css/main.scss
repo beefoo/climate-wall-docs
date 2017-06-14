@@ -221,6 +221,32 @@ img.bordered {
   }
 }
 
+.design-principles {
+  table {
+    border: none;
+    width: 100%;
+    max-width: 750px;
+  }
+  table td,
+  table th {
+    border: none;
+  }
+  table th {
+    text-align: center;
+    font-size: 1.4em;
+    color: #3a991f;
+    &:first-child {
+      color: #ac061b;
+    }
+  }
+  table img {
+    display: inline-block;
+  }
+  table td {
+    text-align: center;
+  }
+}
+
 @media (max-width: $containerWidth) {
   .container {
     width: auto;

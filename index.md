@@ -1,6 +1,6 @@
 ---
 layout: page
-id: home
+uid: home
 title: Table of contents
 ---
 

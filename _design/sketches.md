@@ -1,6 +1,6 @@
 ---
 layout: page
-id: design-sketches
+uid: design-sketches
 title: Sketches and mock-ups
 ---
 

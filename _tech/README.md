@@ -1,6 +1,6 @@
 ---
 layout: page
-id: tech-start
+uid: tech-start
 title: Technical considerations
 ---
 
