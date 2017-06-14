@@ -1,10 +1,10 @@
 ---
 layout: page
-uid: design-principles
-title: Design goals, principles, and language
+uid: design-language
+title: Design language
 ---
 
-## Design goals, principles, and language
+## Design language
 
 This page will speak to the goals and principles that will inform all design decisions for the HoPE Climate Wall.
 
@@ -27,7 +27,7 @@ The primary function of the wall is to teach climate change (Goal 1.) Goals (2) 
 
 ### Design principles
 
-This section will set forth a general design strategy for representing content on the Climate Wall. Examples for good and bad implementations are given using existing media.
+Based on the goals above, this section will set forth a general design strategy for representing content on the Climate Wall. Examples for good and bad implementations are given using existing media.
 
 1. **Clear and bold, graphic by default** - Graphic over illustrative or photographic where possible, intentional use of color, type, and space
    ![Clear and bold, graphic by default](../assets/principles-graphic.png)
@@ -41,6 +41,45 @@ This section will set forth a general design strategy for representing content o
    |---|---|
    | ![Say more with less](../assets/solar-system-no.gif) | ![Say more with less](../assets/solar-system-yes.gif) |
 
-### Design language
+### Design patterns
 
-The following section will speak broadly to how we will communicate certain ideas using visuals, text, interaction, motion, and sound.
+The following section will speak broadly to how we will communicate certain ideas using graphics, color, images, text, interaction, motion, and sound.
+
+1. **Time graphs**
+    - Time is along the horizontal
+    - Amount is along the vertical
+    - Use color for emphasis
+    - Use plot to show measured data
+    - Use line to show trends
+    - Label only what is necessary to communicate message
+
+2. **Information on a globe or map**
+    - Use a globe when communicating localized information
+    - Use a map when illustrating global patterns
+    - Use color to communicate data values
+    - For interactive globes, label magnetic north and south with arrows to orient user
+    - Label equator to orient
+
+3. **Comparing data**
+    - Use color to differentiate data
+
+4. **Sliders**
+    - Use horizontal sliders to:
+        - Move through time
+        - Zoom in and out
+        - Change speed
+    - Use vertical sliders to change amount
+    - Use continuous sliders for many or continuous values
+    - Use incremental sliders to move through few discrete values
+
+5. **Dials**
+    - Use dials for long, scrolling content
+    - Use dials to move precisely
+
+6. **Track balls**
+    - Use track balls to rotate a globe
+
+7. **Buttons**
+    - Use buttons sparingly
+    - Use buttons to navigate through a set of unknown or variable length
+    - Use buttons for acceptance; alternatively, use a delay for implicit acceptance if possible
