@@ -6,9 +6,10 @@ title: Sketches and mock-ups
 
 ## Sketches and mock-ups
 
+1. [Organization and content outline](../assets/climate_wall_content_presentation_2017-07-17.pdf) (7/7/2017)
 1. [Big ideas and media outline](../assets/hope_wall_media_outline.pdf) (6/21/2017)
-2. [Elevation with sketches and boxes](https://s3.amazonaws.com/brianfoo-amnh/HoPE_CC_IAbox-elevation_5-24-17.pdf) (5/24/2017)
-3. [Rough sketches with annotation](https://s3.amazonaws.com/brianfoo-amnh/hope_sketches_2017-05-10.pdf) (5/10/2017)
+1. [Elevation with sketches and boxes](https://s3.amazonaws.com/brianfoo-amnh/HoPE_CC_IAbox-elevation_5-24-17.pdf) (5/24/2017)
+1. [Rough sketches with annotation](https://s3.amazonaws.com/brianfoo-amnh/hope_sketches_2017-05-10.pdf) (5/10/2017)
 
 ### Meta message content and visualizations
 

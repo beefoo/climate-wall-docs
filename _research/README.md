@@ -33,7 +33,14 @@ In general, we want a **diverse set of testers** who represent communities with 
 
 ### User research schedule and results
 
-Coming soon. Will post schedule/results here when ready
+1. Climate camp, 4th and 5th graders (7/20/2017)
+  - [Outline](../assets/ClimateCampUserResearchSessions_2017-07-20.pdf)
+  - Script (coming soon)
+  - Results (coming soon)
+1. Climate camp, 2nd and 3rd graders (7/27/2017)
+  - [Outline](../assets/ClimateCampUserResearchSessions_2017-07-20.pdf)
+  - Script (coming soon)
+  - Results (coming soon)
 
 ### Conducting user studies
 
