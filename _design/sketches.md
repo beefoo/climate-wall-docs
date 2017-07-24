@@ -13,12 +13,12 @@ title: Sketches and mock-ups
 
 ### Meta message content and visualizations
 
-Some explorations on content we can put on the meta section (5/25/2017)
+Some explorations on content we can put on the meta section
 
 1. [Earth's atmosphere imagery](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo.mp4) - used in the original presentation and model
-2. [CO<sub>2</sub> emissions visualization](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2.mp4) - CO<sub>2</sub> particle visualization mixed with Earth's atmosphere imagery
+2. [CO<sub>2</sub> emissions visualization](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2.mp4)  (5/25/2017) - CO<sub>2</sub> particle visualization mixed with Earth's atmosphere imagery
    1. Alternate: [Black background](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2b_nobg.mp4)
    2. Alternate: [CO<sub>2</sub> emissions comparison](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2-compare.mp4)
-3. [Climate event / Hurricane Sandy](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_sandy.mp4) - An example of a climate event "take-over"
-4. [CO<sub>2</sub> "hocky-stick" graph](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2_graph.mp4)
-5. [Glacier before and after](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_glacier.mp4)
+3. [Climate event / Hurricane Sandy](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_sandy.mp4) (5/25/2017) - An example of a climate event "take-over"
+4. [CO<sub>2</sub> "hocky-stick" graph](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2_graph.mp4) (7/17/2017)
+5. [Glacier before and after](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_glacier.mp4) (7/17/2017)
