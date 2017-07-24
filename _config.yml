@@ -16,7 +16,7 @@
 title: HoPE Climate Wall Documentation
 email: bfoo@amnh.org
 description: Documentation site for HoPE Climate Wall
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/climate-wall-docs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
