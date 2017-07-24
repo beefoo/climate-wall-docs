@@ -20,3 +20,5 @@ Some explorations on content we can put on the meta section (5/25/2017)
    1. Alternate: [Black background](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2b_nobg.mp4)
    2. Alternate: [CO<sub>2</sub> emissions comparison](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2-compare.mp4)
 3. [Climate event / Hurricane Sandy](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_sandy.mp4) - An example of a climate event "take-over"
+4. [CO<sub>2</sub> "hocky-stick" graph](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2_graph.mp4)
+5. [Glacier before and after](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_glacier.mp4)
