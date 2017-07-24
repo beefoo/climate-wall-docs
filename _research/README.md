@@ -6,7 +6,7 @@ title: User research
 
 ## User research, feedback, and testing
 
-The design and development of the Climate Wall will be iterative and driven by feedback from the public, staff, and team members.
+The design and development of the Climate Wall will be iterative and driven by feedback from the public, staff, and team members. You can find [results of our studies here](studies.html).
 
 ### User research process
 
@@ -30,21 +30,6 @@ In general, we want a **diverse set of testers** who represent communities with 
 - Non-English speaking visitors
 - Climate skeptics/deniers
 - Varied familiarity with tech/science
-
-### User research schedule and results
-
-1. Climate camp, 4th and 5th graders (7/20/2017)
-  - [Outline](../assets/ClimateCampUserResearchSessions_2017-07-20.pdf)
-  - Script (coming soon)
-  - Results (coming soon)
-1. Climate camp, 2nd and 3rd graders (7/27/2017)
-  - [Outline](../assets/ClimateCampUserResearchSessions_2017-07-20.pdf)
-  - Script (coming soon)
-  - Results (coming soon)
-
-### Conducting user studies
-
-Coming soon. Will have a generic script and survey for conducting user studies for each prototype.
 
 ### Contributing feedback
 

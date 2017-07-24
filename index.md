@@ -21,6 +21,7 @@ This section will contain links to sketches, mock-ups, and prototypes of Climate
 This section will contain links to user studies, resources for running user studies, and instructions for contributing feedback
 
 1. [Start here](research/README.html) - an overview
+2. [Schedule and results](research/studies.html)
 
 ## Technical considerations
 
