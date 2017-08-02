@@ -11,10 +11,11 @@ This website will is an internal README (a.k.a. "Start here") for design and dev
 This section will contain links to sketches, mock-ups, and prototypes of Climate Wall content, i.e. "the latest progress"
 
 1. [Start here](design/README.html) - an overview
-2. [Interactive prototypes](https://beefoo.github.io/climate-lab/) - a separate website that contains links to interactive prototypes
-3. [Sketches and mock-ups](design/sketches.html) - quick visual aids to facilitate conversations about content
-4. [Design language](design/language.html) - guiding goals, principles, and patterns for design
-5. [List of climate-related visualizations and datasets](https://docs.google.com/document/d/1ESWwqXG4BXQTzJHK8P25ylZJd_dcMmUPbWRqFpiUbJ0/edit)
+2. [Interactive prototypes](https://beefoo.github.io/climate-lab/) - a separate website that contains links to the latest interactive prototypes
+3. [What are we working on now?](https://github.com/beefoo/climate-lab/projects/1) - a project board that shows the current tasks we are working on and what we are planning to work on
+4. [Sketches and mock-ups](design/sketches.html) - quick visual aids to facilitate conversations about content
+5. [Design language](design/language.html) - guiding goals, principles, and patterns for design
+6. [List of climate-related visualizations and datasets](https://docs.google.com/document/d/1ESWwqXG4BXQTzJHK8P25ylZJd_dcMmUPbWRqFpiUbJ0/edit)
 
 ## User research, feedback, and testing
 
