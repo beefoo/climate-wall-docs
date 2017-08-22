@@ -24,4 +24,4 @@ Some explorations on content we can put on the meta section
 1. [Glacier before and after](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_glacier.mp4) (7/17/2017)
 1. [Greenland ice melt / Empire State Building](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_greenland_esb.mp4) (Shay, 7/27/2017)
 1. [Temperature graph](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_temperature_03.mp4) (8/1/2017)
-1. [Greenland ice melt graph](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_greenland_graph.mp4) (Shay, 8/1/2017)
+1. [Greenland ice melt graph](https://s3.amazonaws.com/brianfoo-amnh/Greenland_ESB_05.mp4) (Shay, 8/1/2017)
