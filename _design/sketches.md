@@ -22,6 +22,5 @@ Some explorations on content we can put on the meta section
 1. [Climate event / Hurricane Sandy](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_sandy.mp4) (5/25/2017) - An example of a climate event "take-over"
 1. [CO<sub>2</sub> "hocky-stick" graph](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2_graph.mp4) (7/17/2017)
 1. [Glacier before and after](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_glacier.mp4) (7/17/2017)
-1. [Greenland ice melt / Empire State Building](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_greenland_esb.mp4) (Shay, 7/27/2017)
 1. [Temperature graph](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_temperature_03.mp4) (8/1/2017)
-1. [Greenland ice melt graph](https://s3.amazonaws.com/brianfoo-amnh/Greenland_ESB_05.mp4) (Shay, 8/1/2017)
+1. [Greenland ice melt graph + Empire State Building + Beach house](https://s3.amazonaws.com/brianfoo-amnh/Greenland_Ice_ESB_Beachhouse.mp4) (Shay, 8/31/2017)
