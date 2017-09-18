@@ -14,15 +14,4 @@ title: Sketches and mock-ups
 
 ### Meta message content and visualizations
 
-Some explorations on content we can put on the meta section
-
-1. [Greenland ice melt graph + Empire State Building + Beach house](https://s3.amazonaws.com/brianfoo-amnh/Greenland_Ice_ESB_Beachhouse.mp4) (Shay, 8/31/2017)
-1. [Temperature graph](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_temperature_03.mp4) (8/1/2017)
-1. [CO<sub>2</sub> "hocky-stick" graph](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2_graph.mp4) (7/17/2017)
-1. [Glacier before and after](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_glacier.mp4) (7/17/2017)
-1. [CO<sub>2</sub> emissions visualization](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2b.mp4) (9/14/2017) - CO<sub>2</sub> particle visualization
-   1. Alternate: [Earth background](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2.mp4) (5/25/2017)
-   1. Alternate: [Black background](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2b_nobg.mp4) (5/25/2017)
-   1. Alternate: [CO<sub>2</sub> emissions comparison](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_co2-compare.mp4) (5/25/2017)
-1. [Climate event / Hurricane Sandy](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_sandy.mp4) (5/25/2017) - An example of a climate event "take-over"
-1. [Earth's atmosphere imagery](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo.mp4) - used in the original presentation and model
+Moved to [its own section](meta.html)
