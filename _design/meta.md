@@ -27,6 +27,7 @@ Not to be written verbatim, but these are the overall "messages" that visuals sh
 
 Some explorations on content we can put on the meta section
 
+1. [Scientists predict that warmer oceans will lead to stronger hurricanes.](https://s3.amazonaws.com/brianfoo-amnh/BreakingNews_Small_1.mp4) (Shay, 9/26/2017)
 1. [Earth’s atmosphere is fragile and finite.](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_atmosphere.mp4) (9/26/2017)
 1. [One-quarter of greenhouse gas emissions come from electricity generation.](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_electricity.mp4) (9/26/2017)
 1. [Greenland ice melt graph + Empire State Building + Beach house](https://s3.amazonaws.com/brianfoo-amnh/Greenland_Ice_ESB_Beachhouse.mp4) (Shay, 8/31/2017)
