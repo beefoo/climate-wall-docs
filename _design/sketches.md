@@ -6,6 +6,7 @@ title: Sketches and mock-ups
 
 ## Sketches and mock-ups
 
+1. [Wall interactive layer rhythm](../assets/wall_rhythm.png) (10/6/2017)
 1. [Dark color treatment for climate wall](../assets/HoPE_CC_Display_2017-09-01.pdf) (9/1/2017)
 1. [Organization and content outline](../assets/climate_wall_content_presentation_2017-07-17.pdf) (7/7/2017)
 1. [Big ideas and media outline](../assets/hope_wall_media_outline.pdf) (6/21/2017)
