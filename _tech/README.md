@@ -16,12 +16,14 @@ Please [refer to this video (embedded below) for a visual aid](https://s3.amazon
 - Each screen is four feet in width with a 16:9 aspect ratio, 1080p
 - The bottom 9 screens will contain a mix of interactive (4-6 screens) and rendered (3-5 screens) content
 - The meta content will be visible in the top 27 screens
-    - Possibly visible as a subtle background in the bottom 9 screens
+    - ~~Possibly visible as a subtle background in the bottom 9 screens~~ _removed from requirements_
     - Will only contain rendered content
     - Likely will contain satellite imagery, CG, or graphics (i.e. not filmed content)
-- Content in the bottom row _may_ bleed into the row above when appropriate
-- Each of the 9 bottom screens and the meta content are independent from each other
-- However, there has been discussion about having interactions in the bottom screens sometimes affect content on the big screen, but nothing has been concretely proposed yet
+- ~~Content in the bottom row _may_ bleed into the row above when appropriate~~ _design constraints modified to following:_
+    - Content in bottom row _may_ bleed laterally between two screens, which will be controlled by the same machine (i.e. like an extended desktop)
+    - Static and solid content (e.g. section titles) may exist in the meta area but cannot interact with the bottom row, and should animate subtly to reduce burning of screens
+- ~~Each of the 9 bottom screens and the meta content are independent from each other~~ _content may be shared laterally between two screens_
+- ~~However, there has been discussion about having interactions in the bottom screens sometimes affect content on the big screen, but nothing has been concretely proposed yet~~ _not happening_
 
 <video autoplay loop crossorigin="anonymous" src="//s3.amazonaws.com/brianfoo-amnh/climateWallVideo.mp4?t=1"></video>
 
@@ -35,8 +37,8 @@ Please [refer to this video (embedded below) for a visual aid](https://s3.amazon
 ### Physical controls
 
 - There will be four to six screens that contain interactive content and thus will require physical controls
-- There will not be three screens in a row that will be interactive
-- As of now, there will be up to two physical controls per interactive screen
+- ~~There will not be three screens in a row that will be interactive~~ _yes there will be, but will be tested for spacing/usability issues_
+- As of now, there will be up to two physical controls per interactive screen (_however, there may be a button group that contains up to six buttons_)
 - As of now, the types of physical controls include:
     - slider
         - smooth and continuous (i.e. not notched/incremental)
@@ -52,6 +54,8 @@ Please [refer to this video (embedded below) for a visual aid](https://s3.amazon
 ### Label decks & boxes
 
 Please [refer to this document for a visual aid](https://s3.amazonaws.com/brianfoo-amnh/HoPE_CC_IAbox-elevation_5-24-17.pdf).
+
+Please [refer to this page for information about glass cutting for controls](glass.html)
 
 - 20 x 9in is the max area for an interactive box on a label deck
     - 9 possible locations (at the center below each screen)
