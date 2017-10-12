@@ -6,6 +6,8 @@ title: Control placement on glass
 
 ## Considerations for placement of controls on glass panels
 
+[Glass hole template document](../assets/docs/HoPE_deck_glass-holes.pdf) (10/12/2017)
+
 As per Exhibition's recommendations:
 
 >  So for the glass….the glass will need to be 1/4” thickness (instead of 1/8”), because of the longer decks.  We’ve made adjustments inside the “pan” in order to accommodate.  NOTE: Take a look at the drawings—I may have made the glass in the smaller caption panels 1/8”, since there are no cut-outs in those pieces).
