@@ -15,6 +15,12 @@ title: Sketches and mock-ups
 
 ### Interactive screen sketches
 
+1. Consequences of warming (10/30/2017):
+    1. [Change of sensitive ecosystems](../assets/prototypes/consequences_warming1.jpg)
+    1. [Increase in severe heat and heat-related events](../assets/prototypes/consequences_warming2.jpg)
+    1. [Significant loss of water resources](../assets/prototypes/consequences_warming3.jpg)
+    1. [Significant sea level rise](../assets/prototypes/consequences_warming4.jpg)
+1. [Consequences: How is New York City preparing for climate change? (Map version)](../assets/prototypes/mitigation2.jpg) (10/30/2017) - [notes](../assets/prototypes/mitigation2_notes.jpg)
 1. [How climate works: How does heat move through the climate system?](../assets/prototypes/heat_system.pdf) (10/16/2017)
 1. [Consequences: How does climate change affect you?](../assets/prototypes/impact_people.jpg) (10/2/2017) - [notes](../assets/prototypes/impact_people_notes.jpg)
 1. [Consequences: How is New York City preparing for climate change?](../assets/prototypes/mitigation.jpg) (10/2/2017) - [notes](../assets/prototypes/mitigation_notes.jpg)
