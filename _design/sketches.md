@@ -15,6 +15,11 @@ title: Sketches and mock-ups
 
 ### Interactive screen sketches
 
+1. How climate works: How does heat move through the climate system? (10/31/2017):
+    1. [Ocean surface](../assets/prototypes/climate_system1.png)
+    1. [Air surface](../assets/prototypes/climate_system2.png)
+    1. [Troposphere](../assets/prototypes/climate_system3.png)
+    1. [Stratosphere](../assets/prototypes/climate_system4.png)
 1. Consequences of warming (10/30/2017):
     1. [Change of sensitive ecosystems](../assets/prototypes/consequences_warming1.jpg)
     1. [Increase in severe heat and heat-related events](../assets/prototypes/consequences_warming2.jpg)
