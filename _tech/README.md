@@ -10,11 +10,11 @@ This page will give an overview of technical concerns relating to the Climate Wa
 
 ### Screens
 
-Please [refer to this video (embedded below) for a visual aid](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo.mp4).
+![Climate wall overview](../assets/tech/wall_diagrams_overview.png)
 
 - 36 high definition screens laid out in a nine-by-four grid
 - Each screen is four feet in width with a 16:9 aspect ratio, 1080p
-- The bottom 9 screens will contain a mix of interactive (4-6 screens) and rendered (3-5 screens) content
+- The bottom 9 screens will contain interactive content
 - The meta content will be visible in the top 27 screens
     - ~~Possibly visible as a subtle background in the bottom 9 screens~~ _removed from requirements_
     - Will only contain rendered content
@@ -25,53 +25,44 @@ Please [refer to this video (embedded below) for a visual aid](https://s3.amazon
 - ~~Each of the 9 bottom screens and the meta content are independent from each other~~ _content may be shared laterally between two screens_
 - ~~However, there has been discussion about having interactions in the bottom screens sometimes affect content on the big screen, but nothing has been concretely proposed yet~~ _not happening_
 
-<video autoplay loop crossorigin="anonymous" src="//s3.amazonaws.com/brianfoo-amnh/climateWallVideo.mp4?t=1"></video>
+### Computers, inputs (controls), and outputs (A/V)
+
+[![Climate wall controls](../assets/tech/wall_diagrams_inputs.png)](../assets/tech/wall_diagrams_inputs.png)
+
+Please refer to the [control specification document](../assets/docs/HoPE_wall_control_specifications.pdf) for more details.
+
+- The 9 interactive screens will be controlled by 6 computers, 3 of which will have dual-headed output to two screens.
+- 5 of the 6 computers will be Mac Minis, the 6th machine will just be looping video
+- 5 of the 6 computers will require USB inputs with one or more of the following:
+    - horizontal slider
+    - vertical slider
+    - knob
+    - button
+- There is one computer that has more than 4 inputs (the one with 6 buttons) and thus will require a USB hub
+- 3 of the 6 computers will require audio output and speakers
+
+### Software
+
+The interactives running on Mac Minis will most likely be running [openFrameworks](http://openframeworks.cc/)-compiled native apps.
 
 ### Content update-ability
 
 - Some screens on the bottom row will have data associated with them (e.g. temperature, CO<sub>2</sub>) that would need to be updated periodically
-- Depending on the dataset, the frequency of updates will happen on a daily, weekly, monthly, or annually
-- Some screens may be a rendered video that would need to be periodically updated or replaced (temporarily or permanently) - this would likely not be frequent or common
-- Sometimes, custom rendered content would be added to the cycling content in the meta section to address current events - this would likely not be frequent or common
-
-### Physical controls
-
-- There will be four to six screens that contain interactive content and thus will require physical controls
-- ~~There will not be three screens in a row that will be interactive~~ _yes there will be, but will be tested for spacing/usability issues_
-- As of now, there will be up to two physical controls per interactive screen (_however, there may be a button group that contains up to six buttons_)
-- As of now, the types of physical controls include:
-    - slider
-        - smooth and continuous (i.e. not notched/incremental)
-        - horizontal and vertical options
-        - would like to be able to configure the friction/resistance
-    - knob/dial (for precision or selection)
-        - incremental and continuous options
-        - would like to be able to configure the friction/resistance
-    - crank (for acceleration/deceleration)
-    - track ball (for rotating a globe, so larger the better)
-    - button (for navigation)
-
-### Label decks & boxes
-
-Please [refer to this document for a visual aid](https://s3.amazonaws.com/brianfoo-amnh/HoPE_CC_IAbox-elevation_5-24-17.pdf).
-
-Please [refer to this page for information about glass cutting for controls](glass.html)
-
-- 20 x 9in is the max area for an interactive box on a label deck
-    - 9 possible locations (at the center below each screen)
-    - Cannot move horizontally
-- 8 x 9in boxes can provide 10 additional locations on the label decks
-    - Can move horizontally on label deck
+- Depending on the dataset, the frequency of updates will happen on a weekly, monthly, or annually
+- Some screens may be a rendered video that would need to be periodically updated or replaced (temporarily or permanently) - this would likely not be frequent
+- Sometimes, custom rendered content would be added to the cycling content in the meta section to address current events - this would likely not be frequent
 
 ### Sound
 
-- Some interactive content (1 to 3 screens) may require audio feedback
+- 3 screens will require audio feedback
 - Sound should be as localized as possible
 - Sound should consider surrounding sounds
 - Sound should consider the noise levels of the hall
 - Sound should have a "resting" mode when there is little to no interaction on the wall (as to not have persistent sound from the wall)
 - Possibly, sound can be manually disabled by staff (or temporarily by visitors maybe)
 
-### Haptic
+### Documents
 
-- Haptics is also an option for providing feedback for the interactions
+- [Interactive control placement](https://s3.amazonaws.com/brianfoo-amnh/interactive_controls_cutouts.pdf) (Michael, 11/10/2017) (ignore the placeholder content).
+- [Control specification document](../assets/docs/HoPE_wall_control_specifications.pdf) (11/13/2017)
+- [Wall interactive layer visual aid](../assets/wall_rhythm.png) (11/13/2017)
