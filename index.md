@@ -11,7 +11,11 @@ This website will is an internal README (a.k.a. "Start here") for design and dev
 This section will contain links to sketches, mock-ups, and prototypes of Climate Wall content, i.e. "the latest progress"
 
 1. [Start here](design/README.html) - an overview
-1. [Interactive prototypes](https://beefoo.github.io/climate-lab/) - a separate website that contains links to the latest interactive prototypes
+1. Latest spec documents for wall:
+    1. [Control specification document](assets/docs/HoPE_wall_control_specifications.pdf) (last updated 11/13/2017)
+    1. [Visual aid for above document](assets/wall_rhythm.png) (last updated 11/13/2017)
+1. [Interactive applications - prototypes](https://beefoo.github.io/climate-lab/) - a separate website that contains links to the latest interactive prototypes
+1. [Interactive applications - production](https://amnh-digital.github.io/hope-climate-ia/) - a separate website that contains links to the latest interactive applications (still in development) for production use. Physical controls required to use, and documentation to come.
 1. [Meta message area](design/meta.html) - content, sketches, and mock-ups for the meta message area
 1. [What are we working on now?](https://github.com/beefoo/climate-lab/projects/1) - a project board that shows the current tasks we are working on and what we are planning to work on
 1. [Sketches and mock-ups](design/sketches.html) - quick visual aids to facilitate conversations about content
@@ -24,6 +28,7 @@ This section will contain links to user studies, resources for running user stud
 
 1. [Start here](research/README.html) - an overview
 1. [Schedule and results](research/studies.html)
+1. [Documents](research/docs.html) - Misc documents contributed by staff
 
 ## Technical considerations
 
