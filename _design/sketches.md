@@ -6,6 +6,9 @@ title: Sketches and mock-ups
 
 ## Sketches and mock-ups
 
+1. Warming World composition (3/1/2018)
+    1. [Resting state](../assets/warming_world_composition_resting.png)
+    1. [Active state](../assets/warming_world_composition_active.png)
 1. [HoPE Climate Wall - Progress Report](../assets/HoPE Climate Wall - Progress Report 2107-12-07.pdf) (12/7/2017)
 1. [Control specification document](../assets/docs/HoPE_wall_control_specifications.pdf) (11/13/2017)
 1. [Wall interactive layer rhythm](../assets/wall_rhythm.png) (11/13/2017)
