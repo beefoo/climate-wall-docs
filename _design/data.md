@@ -8,6 +8,8 @@ title: Data sources of media interactives
 
 ## Warming World: What can we say about global temperature at different timescales?
 
+![Warming World: What can we say about global temperature at different timescales?](../assets/screenshots/ww_timescales.png)
+
 - [Global Land and Ocean Temperature Anomalies](https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/p12/12/1880-2018.csv)
 - Source: [NOAA NCDC](https://www.ncdc.noaa.gov/monitoring-references/faq/anomalies.php) (click "Anomalies and Index Data")
 - Temporal coverage: 1880 - present
@@ -16,6 +18,8 @@ title: Data sources of media interactives
 - Baseline: 20th century average (1901-2000)
 
 ## Warming World: Where is climate change most dramatic?
+
+![Warming World: What can we say about global temperature at different timescales?](../assets/screenshots/ww_regions.png)
 
 - [Land-Ocean Temperature Index, ERSSTv5, 1200km smoothing](https://data.giss.nasa.gov/gistemp/) (Compressed NetCDF files)
 - Source: [NASA GISS](https://data.giss.nasa.gov/gistemp/)
@@ -27,6 +31,8 @@ title: Data sources of media interactives
 
 ## Warming World: What's warming the planet?
 
+![Warming World: What can we say about global temperature at different timescales?](../assets/screenshots/ww_forcings.png)
+
 - [CMIP5 GISS-E2 Global Radiative Forcings (Fi) Miller et al (2014)](https://data.giss.nasa.gov/modelforce/Fi_Miller_et_al14_upd.txt)
 - Source: [NASA GISS](https://data.giss.nasa.gov/modelforce/)
 - Temporal coverage: 1851 - 2012
@@ -34,6 +40,8 @@ title: Data sources of media interactives
 - Geographic coverage/resolution: global
 
 ## How Climate Works: How is climate driven by energy from the Sun?
+
+![Warming World: What can we say about global temperature at different timescales?](../assets/screenshots/hcw_sun.png)
 
 ### Ocean data
 
