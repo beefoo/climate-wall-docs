@@ -20,6 +20,8 @@ title: Sketches and mock-ups
 
 ### Interactive screen sketches
 
+1. Ice core interactive
+    1. [Mock-up](../assets/ice_core-2018-03-27.png) (3/27/2018)
 1. How climate works: quick visualizations of ocean currents / IR cloud data (1/2/2018):
     1. [Super fast (15s)](https://s3.amazonaws.com/brianfoo-amnh/oceanAtmosphere_15s.mp4)
     1. [Fast (30s)](https://s3.amazonaws.com/brianfoo-amnh/oceanAtmosphere_30s.mp4)
