@@ -27,9 +27,9 @@ This page will give an overview of technical concerns relating to the Climate Wa
 
 ### Computers, inputs (controls), and outputs (A/V)
 
-[![Climate wall controls](../assets/tech/wall_diagrams_inputs.png)](../assets/tech/wall_diagrams_inputs.png)
+[![Climate wall controls](../assets/tech/wall_diagrams_inputs_v2.png)](../assets/tech/wall_diagrams_inputs_v2.png)
 
-Please refer to the [control specification document](../assets/docs/HoPE_wall_control_specifications.pdf) for more details.
+Please refer to the [control specification document](../assets/docs/HoPE_wall_control_specifications_2018-04-03.pdf) for more details.
 
 - The 9 interactive screens will be controlled by 6 computers, 3 of which will have dual-headed output to two screens.
 - 5 of the 6 computers will be Mac Minis, the 6th machine will just be looping video

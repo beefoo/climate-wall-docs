@@ -12,8 +12,8 @@ This section will contain links to sketches, mock-ups, and prototypes of Climate
 
 1. [Start here](design/README.html) - an overview
 1. Latest spec documents for wall:
-    1. [Control specification document](assets/docs/HoPE_wall_control_specifications.pdf) (last updated 11/13/2017)
-    1. [Visual aid for above document](assets/wall_rhythm.png) (last updated 11/13/2017)
+    1. [Control specification document](assets/docs/HoPE_wall_control_specifications_2018-04-03.pdf) (last updated 4/3/2018)
+    1. [Visual aid for above document](assets/wall_rhythm_v2.png) (last updated 4/3/2018)
 1. [Wall interactive development status](https://github.com/amnh-digital/hope-climate-ia/projects/1?fullscreen=true) - a project board that shows the current tasks we are working on and what we are planning to work on broken up by screen
 1. [Interactive applications - prototypes](https://beefoo.github.io/climate-lab/) - a separate website that contains links to the latest interactive prototypes
 1. [Interactive applications - production](https://amnh-digital.github.io/hope-climate-ia/) - a separate website that contains links to the latest interactive applications (still in development) for production use. Physical controls required to use, and documentation to come.
