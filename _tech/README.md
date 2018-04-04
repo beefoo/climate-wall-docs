@@ -27,7 +27,7 @@ This page will give an overview of technical concerns relating to the Climate Wa
 
 ### Computers, inputs (controls), and outputs (A/V)
 
-[![Climate wall controls](../assets/tech/wall_diagrams_inputs_v2.png)](../assets/tech/wall_diagrams_inputs_v2.png)
+[![Climate wall controls](../assets/tech/wall_diagrams_inputs.png)](../assets/tech/wall_diagrams_inputs.png)
 
 Please refer to the [control specification document](../assets/docs/HoPE_wall_control_specifications_2018-04-03.pdf) for more details.
 
@@ -64,5 +64,5 @@ The interactives running on Mac Minis will most likely be running [openFramework
 ### Documents
 
 - [Interactive control placement](https://s3.amazonaws.com/brianfoo-amnh/interactive_controls_cutouts.pdf) (Michael, 11/10/2017) (ignore the placeholder content).
-- [Control specification document](../assets/docs/HoPE_wall_control_specifications.pdf) (11/13/2017)
+- [Control specification document](../assets/docs/HoPE_wall_control_specifications_2018-04-03.pdf) (11/13/2017)
 - [Wall interactive layer visual aid](../assets/wall_rhythm.png) (11/13/2017)
