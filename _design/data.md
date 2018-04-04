@@ -63,9 +63,4 @@ title: Data sources of media interactives
 
 ## Ice core
 
-The data is mostly found on [NOAA NCDC's GISP2 FTP site](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/)
-
-- [GISP2 Meese/Sowers Timescale](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/depthage/gisp2age.txt) - official timescale for the GISP2 ice core
-- [GISP2 Ice Core Temperature and Accumulation Data](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/isotopes/gisp2_temp_accum_alley2000.txt)
-- [GISP2 Oxygen Isotope Data](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/isotopes/gispd18o.txt)
-- [GISP2 Volcanic markers](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/chem/volcano.txt)
+[Data on this page](ice_core_data.html)
