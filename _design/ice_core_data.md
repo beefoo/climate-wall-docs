@@ -12,6 +12,7 @@ The data is mostly found on [NOAA NCDC's Paleo Data page](https://www.ncdc.noaa.
 - Temperature:
   - [GISP2 Ice Core Temperature and Accumulation Data](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/isotopes/gisp2_temp_accum_alley2000.txt) - 49K years BP - present
 - CO2:
+  - [Law Dome Ice Core](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/law/law2006.txt) - 0 to 2000 A.D.
   - [EPICA Dome C - Holocene d13CO2](https://www1.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc2009d13co2.txt) - 11K to 387 years BP
   - [EPICA Dome C Ice Core Termination I d13CO2](https://www1.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc2010d13co2.txt) - 22K - 8K years BP
   - [Vostok Ice Core](http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/vostok.icecore.co2) - 400K - 5K years BP
