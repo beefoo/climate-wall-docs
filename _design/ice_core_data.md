@@ -19,7 +19,7 @@ The data is mostly found on [NOAA NCDC's Paleo Data page](https://www.ncdc.noaa.
   - [EPICA Dome C Ice Core High Resolution Holocene and Transition CO2 Data](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc-co2.txt) - 22K to 173 years BP
   - [Vostok Ice Core](http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/vostok.icecore.co2) - 400K - 5K years BP
 4. Sea level:
-  - [Spratt, 2016](https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/spratt2016/spratt2016.txt) - 800K years BP - present
+  - [Global Sea Level Reconstruction using Stacked Records from 0-800 ka.](https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/spratt2016/spratt2016.txt) Spratt, 2016 - 800K years BP to present
 5. Population:
   - [World Population Prospects: The 2017 Revision, United Nations](https://esa.un.org/unpd/wpp/DVD/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2017_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx) - 1950 - present
   - [Christian, David. Maps of Time: An Introduction to Big History, University of California Press: 2011. ](../assets/population_table.png) - historical counts 100K years BP - present
