@@ -27,6 +27,13 @@ Not to be written verbatim, but these are the overall "messages" that visuals sh
 
 Some explorations on content we can put on the meta section
 
+1. [6 scene sequence](https://s3.amazonaws.com/brianfoo-amnh/HoPE_meta_sequence_2018-06-08.mp4) (6/8/2018)
+   1. Earth's limb
+   1. CO2 curve
+   1. Ice sheets
+   1. Hurricanes
+   1. Lights at night
+   1. Amazon forest
 1. [Scientists predict that warmer oceans will lead to stronger hurricanes.](https://s3.amazonaws.com/brianfoo-amnh/IR_DATA_01.mp4) (Shay, 9/26/2017)
 1. [Earth’s atmosphere is fragile and finite.](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_atmosphere.mp4?v=2) (9/26/2017)
 1. [One-quarter of greenhouse gas emissions come from electricity generation.](https://s3.amazonaws.com/brianfoo-amnh/climateWallVideo_electricity2.mp4) (9/26/2017)
