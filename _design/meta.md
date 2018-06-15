@@ -27,6 +27,7 @@ Not to be written verbatim, but these are the overall "messages" that visuals sh
 
 Some explorations on content we can put on the meta section
 
+1. [6 scene sequence](https://s3.amazonaws.com/brianfoo-amnh/HoPE_meta_sequence_2018-06-13.mp4) (6/13/2018) - updated text, text layout, updated timing, added reference text, increased contrast
 1. [6 scene sequence](https://s3.amazonaws.com/brianfoo-amnh/HoPE_meta_sequence_2018-06-08.mp4) (6/8/2018)
    1. Earth's limb
    1. CO2 curve
