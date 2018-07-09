@@ -22,13 +22,22 @@ The data is mostly found on [NOAA NCDC's Paleo Data page](https://www.ncdc.noaa.
   - [Vostok Ice Core](http://cdiac.ess-dive.lbl.gov/ftp/trends/co2/vostok.icecore.co2) - 400K - 5K years BP
 
 ## Sea level:
-  - [Global Sea Level Reconstruction using Stacked Records from 0-800 ka.](https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/spratt2016/spratt2016.txt) Spratt, 2016 - 800K years BP to present
+  - [Sea-level and Deep Water Temperature 430KYr Reconstructions](https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/waelbroeck2002/waelbroeck2002.txt) Waelbroeck, C., et al. 2010. - 430K years BP to present
 
 ## Population:
   - [World Population Prospects: The 2017 Revision, United Nations](https://esa.un.org/unpd/wpp/DVD/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2017_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx) - 1950 - present
+  - [Global historical population estimates 10k BC - 2 k AD (in millions)](http://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html) - 10K years BP - present
   - [Christian, David. Maps of Time: An Introduction to Big History, University of California Press: 2011. ](../assets/population_table.png) - historical counts 100K years BP - present
 
-## Other datasets that may be used for stories:
+## Datasets in stories:
 
 - [GISP2 Oxygen Isotope Data](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/isotopes/gispd18o.txt)
+- [GISP2 Ice Core 110,000 Year Ions Data](https://www.ncdc.noaa.gov/paleo-search/study/17805):
+  - `calcium` column (`Ca_ppb`) used for dust
+  - `sodium` column (`Na_ppb`) used for sea salt
+- [Blue Marble 3000](http://radar.zhaw.ch/bluemarble3000_en.html) - [video](https://www.youtube.com/watch?feature=player_profilepage&v=S5UuXfcDqX0) used for ice sheet story
+  - Also on [Science on a Sphere](https://sos.noaa.gov/datasets/blue-marble-sea-level-ice-and-vegetation-changes-19000bc-10000ad/)
+
+## Not used:
+
 - [GISP2 Volcanic markers](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/chem/volcano.txt)
