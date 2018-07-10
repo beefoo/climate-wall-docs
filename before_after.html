@@ -7,10 +7,14 @@
   <title>HoPE Climate Before and After</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+  <meta property="og:image" content="https://beefoo.github.io/climate-wall-docs/assets/amnh_climate_wall_before_after.jpg">
+  <meta name="image" itemprop="image" content="https://beefoo.github.io/climate-wall-docs/assets/amnh_climate_wall_before_after.jpg">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/before-after.min.css">
   <style type="text/css">
+  body {
+    background: black;
+  }
   .ba-slider {
     width: 90vw;
     height: 52.921875vw;  /* 1920 x 1129 ratio */
@@ -19,6 +23,20 @@
     left: 50%;
     margin-top: -26.4609375vw;
     margin-left: -45vw;
+  }
+  .ba-slider .handle {
+    background: rgba(255,255,255,0.5);
+  }
+  label {
+    color: white;
+    position: absolute;
+    top: 1vh;
+    left: 1vw;
+    font-size: 2rem;
+  }
+  label.after {
+    left: auto;
+    right: 1vw;
   }
   /* Minimum aspect ratio (for very wide screens) */
   @media (min-aspect-ratio: 1920/1129) {
@@ -38,6 +56,8 @@
     <img src="assets/amnh_climate_wall_after.jpg" />
     <div class="resize"><img src="assets/amnh_climate_wall_before.jpg" /></div>
     <span class="handle"></span>
+    <label>Before</label>
+    <label class="after">After</label>
   </div>
 
   <script src="js/jquery-3.3.1.min.js"></script>
