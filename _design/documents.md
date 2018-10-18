@@ -6,6 +6,8 @@ title: Misc documents
 
 ## Miscellaneous documents
 
+- [Project timeline](../assets/docs/HoPE_timeline_101617.pdf) (10/16/2017)
+
 Documents regarding content/editorial of interactives
 
 - [NYC resilience stories](../assets/docs/nyc_resilience_stories_2018-03-16.pdf) (Jason, 3/16/2018)

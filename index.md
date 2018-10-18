@@ -21,6 +21,7 @@ This section will contain links to sketches, mock-ups, and prototypes of Climate
 1. [Sketches and mock-ups](design/sketches.html) - quick visual aids to facilitate conversations about content
 1. [Design language](design/language.html) - guiding goals, principles, and patterns for design
 1. [List of climate-related visualizations and datasets](https://docs.google.com/document/d/1ESWwqXG4BXQTzJHK8P25ylZJd_dcMmUPbWRqFpiUbJ0/edit)
+1. [Photos of Hall](design/photos.html)
 1. [Misc content documents](design/documents.html)
 1. [Data sources](design/data.html)
 
