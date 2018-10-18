@@ -25,6 +25,9 @@ Graph of global warming. Ends ~1996.
 ![Climate wall elevation](../assets/HoPE_CC_elevation_MODEL-wall_04-28-17.jpg)
 Early elevation model
 
+![Climate wall physical scale model](../assets/photos/during/elevation_model.jpg)
+Physical scale model
+
 ![Digital model aerial view](../assets/photos/during/digital_model.jpg)
 Digital model aerial view
 
