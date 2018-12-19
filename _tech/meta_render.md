@@ -4,7 +4,7 @@ By default, After Effects only uses a single CPU core when rendering regardless 
 
 1. After you create your composition, add it to your render queue using the output settings that you normally would. Note your composition's name and your project file's name and close the program.
 
-   Note if you have multiple instances of the same composition with the same name, AFX will use the settings of the _first_ instance of the composition.  If this is not what you want, clear the queue before adding the composition with the settings you want.
+   Note if you have multiple instances of the same composition with the same name in your queue, AFX will use the settings of the _first_ instance of the composition (not the most recent).  If this is not what you want, clear the queue before adding the composition with the settings you want.
 
 2. Open terminal (or command prompt if Windows) and type the following to navigate to your After Effects application directory:
 
