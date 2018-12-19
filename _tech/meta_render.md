@@ -24,7 +24,7 @@ By default, After Effects only uses a single CPU core when rendering regardless 
    ./aerender -project "/path/to/project.aep" -comp "MyComposition" -s 10 -e 20  -output "/path/to/frames.[#####].png"
    ```
    
-   in the example above, frames 10 through 20 will be rendered.  
+   In the example above, frames 10 through 20 will be rendered.  Note to replace "MyComposition" to your composition name noted in step one.  And replace the pathnames to the full absolute path to your project and frames. 
    
 4. To run multiple processes at once, you'll need to open multiple terminals and target each terminal to a different range of frames. The amount of processes you should run at once depends on your CPU.  For example, if you have an 8-core processor, you should try around 5-6 instances.  In this example, we will render 10,000 frames using 5 processes (2000 frames per process):
 
