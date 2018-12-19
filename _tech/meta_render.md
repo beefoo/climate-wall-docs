@@ -2,7 +2,7 @@
 
 By default, After Effects only uses a single CPU core when rendering regardless of how many cores your computer has. However, by using [After Effect's automated rendering program](https://helpx.adobe.com/after-effects/using/automated-rendering-network-rendering.html), you can use as many cores as you like by running multiple parallel instances of After Effects.
 
-1. After you create your composition, add it to your render queue using the output settings that you normally would. Note your composition's name and your project file's name and close the program.
+1. After you create your composition, add it to your render queue using the output settings that you normally would (i.e. png sequence). Note your composition's name and your project file's name and close the program.
 
    Note if you have multiple instances of the same composition with the same name in your queue, AFX will use the settings of the _first_ instance of the composition (not the most recent).  If this is not what you want, clear the queue before adding the composition with the settings you want.
 
