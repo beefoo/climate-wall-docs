@@ -43,7 +43,7 @@ Please refer to the [control specification document](../assets/docs/HoPE_wall_co
 
 ### Software
 
-The interactives running on Mac Minis will most likely be running [openFrameworks](http://openframeworks.cc/)-compiled native apps.
+The interactives running on Mac Minis are running web apps compiled as [Electron desktop apps](https://electronjs.org/).
 
 ### Hardware
 
@@ -52,6 +52,26 @@ The interactives running on Mac Minis will most likely be running [openFramework
 - [Buttons](https://na.suzohapp.com/products/pushbuttons/D54-0004-21)
 - [I-PAC Ultimate I/O](https://www.ultimarc.com/ipacuio.html) for buttons and spinners
 - [A-PAC](https://www.ultimarc.com/a-pac.html) for sliders (joystick)
+
+### Layout/wiring diagrams
+
+- Mac 1
+   - [Layout](https://docs.google.com/drawings/d/1xrNUxVaL-AKLlfcvBmJv0YKAArj111jfBkhoQTcSuAo/edit?usp=sharing)
+   - [Button wiring](https://docs.google.com/drawings/d/1PC8Bcl2f0Adp2HA0k0E3IunbTKDJFCQKJ-dLsh4tnYo/edit?usp=sharing)
+   - [Slider wiring](https://docs.google.com/drawings/d/1FnnhbmOsjnr-h_wtfVVchhs-A6nPkp_f_ypofu77XAM/edit)
+- Mac 2
+   - [Layout](https://docs.google.com/drawings/d/1CsvThGU4NrDKadkb0RH2CjGMkMBVzKtI1LvKPHvSpTU/edit?usp=sharing)
+   - [Spinner wiring](https://docs.google.com/drawings/d/1Qz_KTMl_u8It8isdvPm8WmJeg3e63sWrlObwxsq_WwQ/edit?usp=sharing)
+- Mac 3
+   - [Layout](https://docs.google.com/drawings/d/1XcRkPQi7io-q8m7MxtstI98tH0I951l7XhkLu5AaQLY/edit?usp=sharing)
+   - [Slider wiring](https://docs.google.com/drawings/d/1AzIW9DEK-j0OtD7s5-5ND27FRH97KMAaKe1Ry4mDRwo/edit?usp=sharing)
+- Mac 4
+   - [Layout](https://docs.google.com/drawings/d/113ywMG7vvPpEOOAgxiCGkRG5uZwMusJ80F0cx1vXCNY/edit?usp=sharing)
+   - [Button wiring](https://docs.google.com/drawings/d/1RGU7TxYnp0Pgr7SmoPc_Rda2SuOvBtaHSZY5MhCsrA0/edit?usp=sharing)
+- Mac 5
+   - [Layout](https://docs.google.com/drawings/d/14id2uQuMl3yH5q6-mwhE-bSNHVF5sWrTEjbwjnwfb_Y/edit?usp=sharing)
+   - [Button wiring](https://docs.google.com/drawings/d/1ZTeckscw--AJDrCEtGGWzT5_aeYRa1lm2VyPB5MCdvc/edit?usp=sharing)
+   - [Slider wiring](https://docs.google.com/drawings/d/13qG-Pni41NFGXcxe158ZqPehofrX2da7sJMvkNDeH-M/edit)
 
 ### Content update-ability
 
@@ -74,3 +94,4 @@ The interactives running on Mac Minis will most likely be running [openFramework
 - [Interactive control placement](https://s3.amazonaws.com/brianfoo-amnh/interactive_controls_cutouts.pdf) (Michael, 11/10/2017) (ignore the placeholder content).
 - [Control specification document](../assets/docs/HoPE_wall_control_specifications_2018-04-03.pdf) (11/13/2017)
 - [Wall interactive layer visual aid](../assets/wall_rhythm.png) (11/13/2017)
+
