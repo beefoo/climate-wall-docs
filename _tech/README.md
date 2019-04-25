@@ -45,6 +45,14 @@ Please refer to the [control specification document](../assets/docs/HoPE_wall_co
 
 The interactives running on Mac Minis will most likely be running [openFrameworks](http://openframeworks.cc/)-compiled native apps.
 
+### Hardware
+
+- [Spinners](https://www.ultimarc.com/SpinTrak.html)
+- [Sliders v1](http://www.potentiometers.com/PTF.cfm?link=SL) and [sliders v2](https://www.cw-industrialgroup.com/Products/Faders/Linear-Manual-Fader-PGF3000)
+- [Buttons](https://na.suzohapp.com/products/pushbuttons/D54-0004-21)
+- [I-PAC Ultimate I/O](https://www.ultimarc.com/ipacuio.html) for buttons and spinners
+- [A-PAC](https://www.ultimarc.com/a-pac.html) for sliders (joystick)
+
 ### Content update-ability
 
 - Some screens on the bottom row will have data associated with them (e.g. temperature, CO<sub>2</sub>) that would need to be updated periodically
