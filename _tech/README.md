@@ -68,6 +68,7 @@ The interactives running on Mac Minis are running web apps compiled as [Electron
 - Mac 4
    - [Layout](https://docs.google.com/drawings/d/113ywMG7vvPpEOOAgxiCGkRG5uZwMusJ80F0cx1vXCNY/edit?usp=sharing)
    - [Button wiring](https://docs.google.com/drawings/d/1RGU7TxYnp0Pgr7SmoPc_Rda2SuOvBtaHSZY5MhCsrA0/edit?usp=sharing)
+   - [Slider wiring](https://docs.google.com/drawings/d/1gs57smnOjurAEXWwnHbbpZn9m1imgYT8wUv5xd6Mg3A/edit)
 - Mac 5
    - [Layout](https://docs.google.com/drawings/d/14id2uQuMl3yH5q6-mwhE-bSNHVF5sWrTEjbwjnwfb_Y/edit?usp=sharing)
    - [Button wiring](https://docs.google.com/drawings/d/1ZTeckscw--AJDrCEtGGWzT5_aeYRa1lm2VyPB5MCdvc/edit?usp=sharing)
